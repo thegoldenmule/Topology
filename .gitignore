@@ -1,0 +1,8 @@
+Library/
+obj/
+ProjectSettings/
+Temp/
+Assets/UnityVS/
+UnityVS.Topology.CSharp.csproj
+UnityVS.Topology.sln
+UnityVS.Topology.sln.DotSettings
